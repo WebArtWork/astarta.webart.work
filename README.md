@@ -18,3 +18,6 @@ Astarta is a hotel-restaurant complex in Kamianets-Podilskyi, Ukraine, located a
 - Phone: +38 068 942 39 14
 - Address: Khmelnytske Shose, 36, Kamianets-Podilskyi, 32300, Ukraine
 - Website/booking: astarta.webart.work (the page also links to a Google Maps location and to a third-party listing on hotels24.ua as a reference source)
+
+## Forms
+Live HotelOS forms (`kp-astarta`, script before `</body>`): `event-request` (the former `#planner` section; all event CTAs link to it) and `stay-request` (after `#rooms`). Guests over 50 go into the message field.
